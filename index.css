@@ -23,3 +23,17 @@ body {
     font-weight: bold;
     margin: 4px 0;
  }
+
+ ul {
+    margin-top: 20px;
+    list-style: none;
+    padding-left: 0;
+ }
+
+ li {
+    margin-top: 5px;
+ }
+
+ a {
+    color: var(--COLOR);
+ }
